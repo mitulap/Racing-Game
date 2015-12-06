@@ -1,0 +1,48 @@
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x126)
+    Vendor:   Intel
+    VRAM:     128 MB
+FMOD failed to get driver capabilities ... Error initializing output device. 
+ 
+(Filename:  Line: 533)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\SJSU\projects\sem1\272\unity\CarGame\CarGame\RacingGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\SJSU\projects\sem1\272\unity\CarGame\CarGame\RacingGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\SJSU\projects\sem1\272\unity\CarGame\CarGame\RacingGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\SJSU\projects\sem1\272\unity\CarGame\CarGame\RacingGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\SJSU\projects\sem1\272\unity\CarGame\CarGame\RacingGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\SJSU\projects\sem1\272\unity\CarGame\CarGame\RacingGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\SJSU\projects\sem1\272\unity\CarGame\CarGame\RacingGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\SJSU\projects\sem1\272\unity\CarGame\CarGame\RacingGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\SJSU\projects\sem1\272\unity\CarGame\CarGame\RacingGame_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.215 seconds
+desktop: 1366x768 40Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\SJSU\projects\sem1\272\unity\CarGame\CarGame\RacingGame_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 11d8 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.826191 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 283.
+Total: 0.360445 ms (FindLiveObjects: 0.028737 ms CreateObjectMapping: 0.027505 ms MarkObjects: 0.291065 ms  DeleteObjects: 0.012315 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.497665 ms
+
+Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 182.
+Total: 1.215990 ms (FindLiveObjects: 0.092369 ms CreateObjectMapping: 0.048032 ms MarkObjects: 0.756606 ms  DeleteObjects: 0.316518 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.458562 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 283.
+Total: 0.345666 ms (FindLiveObjects: 0.039821 ms CreateObjectMapping: 0.051726 ms MarkObjects: 0.244675 ms  DeleteObjects: 0.008210 ms)
+
